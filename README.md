@@ -1,21 +1,22 @@
 # Honeyswap
 
-An open source AMM forked from Uniswap v2 by 1Hive, deployed on Gnosis Chain. Swap and provide liquidity for tokens on Gnosis Chain.
 
-<!-- MARKEE:START:0x0fda48f1f0fc975d1ed7eeb044936abde0239664 -->
+An open source AMM forked from Paul's code
+
+<!-- MARKEE:START:0x8a1dc4264b4f485fd25741541ccab8e3178ef44e -->
 ```
   ╔══════════════════════════════════════════════════════╗
-  ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
-  ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
+  ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉               ║
+  ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤               ║
   ╠══════════════════════════════════════════════════════╣
   ║                                                      ║
-  ║   top of 2 muffins                                   ║
+  ║   Richie Team                                        ║
   ║                                                      ║
   ╠══════════════════════════════════════════════════════╣
-  ║          0.001000001141552512 ETH to change          ║
+  ║          32 ETH to change                            ║
   ╚══════════════════════════════════════════════════════╝
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x0fda48f1f0fc975d1ed7eeb044936abde0239664) ^*
-<!-- MARKEE:END:0x0fda48f1f0fc975d1ed7eeb044936abde0239664 -->
+*Show the world you support Richie (https://www.markee.xyz/markee/0x8a1Dc4264b4F485fD25741541CCAb8E3178Ef44e) ^*
+<!-- MARKEE:END:0x8a1dc4264b4f485fd25741541ccab8e3178ef44e -->
