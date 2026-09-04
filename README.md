@@ -1,4 +1,4 @@
-# Honeyswap
+# RICHIEBOSTON
 
 
 An open source AMM forked from Paul's code
